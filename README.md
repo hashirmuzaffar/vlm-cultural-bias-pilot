@@ -4,7 +4,7 @@ A small empirical audit of **cultural bias in vision–language models**, focuse
 
 This is a pilot study supporting a proposed MS thesis at NYU Tandon under the responsible-AI / discrimination-testing umbrella. It extends the LLM-based audit framework of Bhattacharjee et al. (2024) into the multimodal setting, where no comparable study on South Asian representation in VLMs has been published.
 
-**Author:** Hashir Muzaffar — MS Computer Engineering, NYU Tandon (`hashirmuzaffar23@gmail.com`)
+**Author:** Hashir Muzaffar — MS Computer Engineering, NYU Tandon (`hm3680@nyu.edu`)
 
 ---
 
